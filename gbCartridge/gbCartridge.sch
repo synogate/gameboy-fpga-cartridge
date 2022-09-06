@@ -634,9 +634,9 @@ U 1 1 62F9364D
 P 2400 5100
 F 0 "RV1" V 2285 5100 50  0000 C CNN
 F 1 "50k" V 2194 5100 50  0000 C CNN
-F 2 "Potentiometer_SMD:Potentiometer_Bourns_3224W_Vertical" H 2400 5100 50  0001 C CNN
+F 2 "Potentiometer_SMD:Potentiometer_Bourns_3314J_Vertical" H 2400 5100 50  0001 C CNN
 F 3 "~" H 2400 5100 50  0001 C CNN
-F 4 "C81348" V 2400 5100 50  0001 C CNN "LCSC"
+F 4 "C50895" V 2400 5100 50  0001 C CNN "LCSC"
 	1    2400 5100
 	0    -1   -1   0   
 $EndComp
