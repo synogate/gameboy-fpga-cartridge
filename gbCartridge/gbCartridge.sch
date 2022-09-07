@@ -1242,7 +1242,7 @@ Text GLabel 2450 2600 2    50   Input ~ 0
 SD_DAT1
 Text GLabel 2450 3300 2    50   Input ~ 0
 SD_DAT2
-Text GLabel 5250 3300 0    50   Input ~ 0
+Text GLabel 7450 5600 2    50   Input ~ 0
 SD_DAT1
 Text GLabel 5250 3500 0    50   Input ~ 0
 SD_DAT2
